@@ -1,4 +1,4 @@
-* * * * * php artisan schedule:run >> /dev/null 2>&1
+* * * * * curl https://oyster-app-atyts.ondigitalocean.app/api/schedule/1X91H0c3Cg >/proc/1/fd/1 2>/proc/1/fd/2
 
 
 
